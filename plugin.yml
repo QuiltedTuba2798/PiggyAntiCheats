@@ -6,8 +6,8 @@ author: DaPigGuy
 permissions:
   piggyanticheats:
     default: op
-    description: "Allow using all PiggyAntiCheats features"
+    description: ""
     children:
       piggyanticheats.notify:
         default: op
-        description: "Get notifications from suspicion checks"
+        description: ""
